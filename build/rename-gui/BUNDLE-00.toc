@@ -1,0 +1,3 @@
+([('rename-gui',
+   '/Users/sharhess/dev/devpipeline/work/white-raven/New-white-raven/dist/rename-gui',
+   'EXECUTABLE')],)
